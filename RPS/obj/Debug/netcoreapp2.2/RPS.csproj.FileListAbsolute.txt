@@ -1,0 +1,11 @@
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\obj\Debug\netcoreapp2.2\RPS.csprojAssemblyReference.cache
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\obj\Debug\netcoreapp2.2\RPS.csproj.CoreCompileInputs.cache
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\obj\Debug\netcoreapp2.2\RPS.AssemblyInfoInputs.cache
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\obj\Debug\netcoreapp2.2\RPS.AssemblyInfo.cs
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\bin\Debug\netcoreapp2.2\RPS.deps.json
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\bin\Debug\netcoreapp2.2\RPS.runtimeconfig.json
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\bin\Debug\netcoreapp2.2\RPS.runtimeconfig.dev.json
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\bin\Debug\netcoreapp2.2\RPS.dll
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\bin\Debug\netcoreapp2.2\RPS.pdb
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\obj\Debug\netcoreapp2.2\RPS.dll
+C:\Users\Holde\desktop\coding\RPS.Solution\RPS\obj\Debug\netcoreapp2.2\RPS.pdb
